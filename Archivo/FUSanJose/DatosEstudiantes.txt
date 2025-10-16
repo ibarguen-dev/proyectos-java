@@ -1,0 +1,3 @@
+1234567 |andres | torres | 300 | torres@itm.com | 25
+carlos | perea | 30000 | carlos@itm.com | 25
+sonai | loa | 11212 | 12 | 25
